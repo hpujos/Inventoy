@@ -1,2 +1,0 @@
-chdir C:\gs\gs7.05\bin
-gswin32c.exe -sDEVICE=pdfwrite -q -dPDFSETTINGS=/prepress -dCompatibilityLevel=1.3 -dNOPAUSE -dBATCH -sOutputFile="C:\Documents and Settings\hpujos\Mis documentos\borrame\prueba.PDF" -c save pop -f "c:\pdf995\temp.ps"
